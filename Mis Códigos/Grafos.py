@@ -1,5 +1,4 @@
 from math import inf
-import Heap
 
 class nodoArista():
     def __init__(self, info, destino):
